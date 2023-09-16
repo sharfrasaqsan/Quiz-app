@@ -82,7 +82,10 @@ function Quiz() {
       {quizStarted ? (
         <div>
           <h2 className="quiz-title">
-            Round {round}, Question {currentQuestion + 1}/10
+            Round {round}
+            <br />
+            <br />
+            Question {currentQuestion + 1}/10
           </h2>
           {questions[currentQuestion] ? (
             <div className="question-container">

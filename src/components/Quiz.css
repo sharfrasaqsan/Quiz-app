@@ -110,6 +110,11 @@
   align-items: center;
 }
 
+.question-text {
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
 .option-button {
   background-color: #3498db;
   color: #fff;
@@ -144,6 +149,6 @@
 
 /* Score Text */
 .score-text {
-  font-size: 18px;
-  margin-top: 10px;
+  font-size: 20px;
+  margin-top: 30px;
 }
