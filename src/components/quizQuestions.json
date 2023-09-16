@@ -1,0 +1,512 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Beijing",
+      "Seoul",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Methane"
+    ],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Go",
+      "Au",
+      "Gl",
+      "Ag"
+    ],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Which gas is known as the 'silent killer' because it is odorless and colorless?",
+    "options": [
+      "Oxygen",
+      "Carbon Monoxide",
+      "Nitrogen",
+      "Methane"
+    ],
+    "correctAnswer": "Carbon Monoxide"
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "F. Scott Fitzgerald",
+      "George Orwell",
+      "Mark Twain"
+    ],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or the 'Evening Star'?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Saturn"
+    ],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "H2SO4"
+    ],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": [
+      "1912",
+      "1923",
+      "1907",
+      "1931"
+    ],
+    "correctAnswer": "1912"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Saturn",
+      "Jupiter",
+      "Uranus"
+    ],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": [
+      "Amelia Earhart",
+      "Bessie Coleman",
+      "Sally Ride",
+      "Valentina Tereshkova"
+    ],
+    "correctAnswer": "Amelia Earhart"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara Desert",
+      "Arctic Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Mark Twain",
+      "Harper Lee"
+    ],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Vietnam"
+    ],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "Who painted the 'Starry Night'?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": [
+      "1945",
+      "1939",
+      "1950",
+      "1941"
+    ],
+    "correctAnswer": "1945"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Ottawa",
+      "Montreal",
+      "Vancouver"
+    ],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "question": "Which gas do humans exhale when they breathe?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "question": "Who is the author of '1984'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "F. Scott Fitzgerald",
+      "J.K. Rowling"
+    ],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "options": [
+      "O",
+      "O2",
+      "O3",
+      "Ox"
+    ],
+    "correctAnswer": "O2"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "What is the chemical symbol for hydrogen?",
+    "options": [
+      "He",
+      "H2",
+      "Hy",
+      "H"
+    ],
+    "correctAnswer": "H"
+  },
+  {
+    "question": "Who painted the 'Sistine Chapel Ceiling'?",
+    "options": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Michelangelo",
+      "Vincent van Gogh"
+    ],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "What is the largest species of shark?",
+    "options": [
+      "Hammerhead Shark",
+      "Tiger Shark",
+      "Great White Shark",
+      "Whale Shark"
+    ],
+    "correctAnswer": "Whale Shark"
+  },
+  {
+    "question": "Which gas is responsible for the Earth's ozone layer?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Methane",
+      "Ozone"
+    ],
+    "correctAnswer": "Ozone"
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "options": [
+      "Charles Dickens",
+      "Fyodor Dostoevsky",
+      "Jane Austen",
+      "Leo Tolstoy"
+    ],
+    "correctAnswer": "Leo Tolstoy"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": [
+      "Si",
+      "Sv",
+      "Ag",
+      "Sl"
+    ],
+    "correctAnswer": "Ag"
+  },
+  {
+    "question": "Which gas is used for inflating balloons and makes your voice squeaky when inhaled?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Helium"
+  },
+  {
+    "question": "Who is the first woman to travel into space?",
+    "options": [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Yuri Gagarin",
+      "Neil Armstrong"
+    ],
+    "correctAnswer": "Valentina Tereshkova"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "options": [
+      "Bald Eagle",
+      "Ostrich",
+      "Albatross",
+      "Hawk"
+    ],
+    "correctAnswer": "Ostrich"
+  },
+  {
+    "question": "Which gas is known as laughing gas?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrous Oxide",
+      "Methane"
+    ],
+    "correctAnswer": "Nitrous Oxide"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": [
+      "I",
+      "Ir",
+      "Fe",
+      "Fr"
+    ],
+    "correctAnswer": "Fe"
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "Mark Twain"
+    ],
+    "correctAnswer": "J.D. Salinger"
+  },
+  {
+    "question": "Which planet is known as the 'Jewel of the Solar System'?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Saturn"
+    ],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "Nauru",
+      "San Marino"
+    ],
+    "correctAnswer": "Vatican City"
+  },
+  {
+    "question": "Who is the author of 'The Hobbit'?",
+    "options": [
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "J.K. Rowling"
+    ],
+    "correctAnswer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "What is the chemical symbol for lead?",
+    "options": [
+      "Ld",
+      "Pb",
+      "Le",
+      "Pl"
+    ],
+    "correctAnswer": "Pb"
+  },
+  {
+    "question": "Which gas is known as the 'Greenhouse Gas'?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Methane"
+    ],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "question": "Who is the first person to step on the moon?",
+    "options": [
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "What is the world's longest river?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correctAnswer": "Nile"
+  },
+  {
+    "question": "Which gas is known as the 'Sweet Gas'?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Methane",
+      "Hydrogen Sulfide"
+    ],
+    "correctAnswer": "Hydrogen Sulfide"
+  },
+  {
+    "question": "Who wrote 'Frankenstein'?",
+    "options": [
+      "Mary Shelley",
+      "Emily Brontë",
+      "Charlotte Brontë",
+      "Jane Austen"
+    ],
+    "correctAnswer": "Mary Shelley"
+  }
+]
