@@ -110,14 +110,7 @@ function Quiz() {
                   </button>
                 ))}
               </div>
-              {userAnswer && (
-                <p className="answer-feedback">
-                  Your answer is{" "}
-                  {userAnswer === questions[currentQuestion].correctAnswer
-                    ? "correct"
-                    : "incorrect"}
-                </p>
-              )}
+
               <p className="score-text">Your Current Score: {score}/10</p>
             </div>
           ) : (
