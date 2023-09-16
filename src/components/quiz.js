@@ -125,7 +125,7 @@ function Quiz() {
         <div className="instructions">
           <h1 className="quiz-title">Welcome to the Quiz!</h1>
           <p className="quiz-description">
-            Test your knowledge with these fun trivia questions.
+            Test your knowledge with these trivia questions.
           </p>
           <div className="instructions-details">
             <h2>Instructions:</h2>

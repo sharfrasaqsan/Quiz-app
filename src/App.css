@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ecf0f1;
+}
+
+/* Add styles for the header */
+.App-header {
+  background-color: #3498db; /* Blue background color for the header */
+  color: #000; /* White text color */
+  padding: 20px; /* Padding around the header */
+  text-align: center; /* Center-align the header text */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.App-title {
+  font-size: 36px; /* Set the font size for the header title */
+  font-weight: bold; /* Make the title bold */
+  margin: 0; /* Remove margin to prevent spacing */
+}

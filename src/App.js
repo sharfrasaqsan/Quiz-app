@@ -1,12 +1,13 @@
-// src/App.js
 import React from "react";
-import "./App.css";
-import Quiz from "./components/quiz.js"; // Update the import path
+import "./App.css"; // Import the CSS file for styling
+import Quiz from "./components/quiz.js";
 
 function App() {
   return (
     <div className="App">
-      <h1>Quiz App</h1>
+      <header className="App-header">
+        <h1 className="App-title">Quizzy Brain</h1>
+      </header>
       <Quiz />
     </div>
   );
